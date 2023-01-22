@@ -1,0 +1,84 @@
+{
+  "Main":[
+    {
+      "title":"Corporate & Business Site Template By Ayro UI.",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "link":"link",
+      "img":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg"
+    }
+  ],
+  "Blog":[
+    {
+      "title":"Corporate & Business Site Template By Ayro UI.",
+      "name":"Mohmmed",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "link":"link",
+      "img1":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg",
+      "img2":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg"
+    },    {
+      "title":"Corporate & Business Site Template By Ayro UI.",
+      "name":"Mohmmed",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "link":"link",
+      "img1":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg",
+      "img2":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg"
+    },    {
+      "title":"Corporate & Business Site Template By Ayro UI.",
+      "name":"Mohmmed",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "link":"link",
+      "img1":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg",
+      "img2":"https://cdn.salla.sa/NOmmV/JVg2KsKdlW0ClhCzKHMv6Mrq6IxK4lwkY6kJ3mpX.jpg"
+    }
+  ],
+  "Services":[
+    {
+      "title":"case1.",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-capsule"
+    },{
+      "title":"case2",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-shortcode"
+    },{
+      "title":"case3",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-bootstrap"
+    },{
+      "title":"case4",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-dashboard"
+    },{
+      "title":"case5",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-layers"
+    },{
+      "title":"case6",
+      "des":"We are a digital agency that helps brands to achieve their business outcomes. We see technology as a tool to create amazing things.",
+      "img":"lni lni-reload"
+    }
+
+  ]
+  ,
+  "About":[
+    {
+      "title":"who we are",
+      "des":"contesr injected humour."
+    },
+    {
+      "title":"Our Vision",
+      "des":"a page when looking at its laormal . ."
+    },
+    {
+      "title":"Our History",
+      "des":"History is a longe-or-less normal distribution  humour."
+    }
+  ],
+  "Contact":[
+    {
+      "address":"gaza",
+      "contact":"yourmail@gmail.com"
+,      "Schedule":"7 Days Open"
+}
+  ]
+}

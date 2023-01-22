@@ -1,0 +1,43 @@
+{
+  "dashboard":"Dashboard",
+  "customers":"Customers",
+  "search":"Search",
+  "products":"Products",
+  "addProduct":"Add Product",
+  "admins":"Admins",
+  "merchants":"Vendors",
+  "addMerchant":"Add Merchant",
+  "addFactory":"Add Factory",
+  "factorys":"Factorys",
+  "setting":"Setting",
+  "logout":"Logout",
+  "logo":"Logo",
+  "name":"Name",
+  "description":"Description",
+  "Actions":"Actions",
+  "email":"Email",
+  "password":"Password",
+  "signin":"Sign in",
+  "signinNow":"Sign in Now",
+  "deleteMsg":"Are you sure to delete this?",
+  "deleteWarning":"If you confirm the deletion, you will not be able to undo this",
+  "disagree":"Disagree",
+  "confirm":"Confirm",
+  "mainSection":"Main Section"
+  ,  "about":"about us"
+  ,  "services":"Services"
+  ,  "blog":"Blog"
+  ,  "contactUs":"Contact Us",
+  "add":"ADD",
+  "nameBtn":"Name Btn",
+  "icon":"Icon",
+  "serviseName":"Service Name",
+  "userImage":"User Image",
+  "title":"User Image",
+  "username":"Username",
+  "Schedule":"Schedule"
+
+  
+
+  
+}
