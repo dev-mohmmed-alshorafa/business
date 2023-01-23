@@ -27,7 +27,13 @@
 ![](img/3.png)
 * You can change the language by clicking on the language icon
 
-
+### Build with:-
+* React js
+* express js 
+* postgressql
+* sequelize
+* material UI
+* i18next
 
 
 
