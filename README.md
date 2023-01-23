@@ -4,7 +4,7 @@
 ### The project can be run locally:-
 #### 1- open the terminal
 #### 2- git clone the repository
-#### 3- cd kaitoss-dashborad
+#### 3- cd business
 #### 4- npm i
 #### 5- open .env file and add postgressql Database link
 #### 6- npm run buildDB (to build the database)
