@@ -9,7 +9,7 @@
 #### - code .
 #### 5- open .env file and add postgressql Database link
 #### 6- npm run buildDB (to build the database)
-#### 7- npm run dev
+#### 7- npm run dev (port=5000)
 #### 8- open another  the terminal
 #### 9- cd cd business
 #### 10- cd cd client
