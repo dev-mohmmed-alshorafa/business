@@ -36,6 +36,7 @@
 * sequelize
 * material UI
 * i18next
+* redux
 
 
 
