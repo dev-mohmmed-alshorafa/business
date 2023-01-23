@@ -10,7 +10,6 @@ function Items() {
   const [services, setServices] = useState([])
   useEffect(() => {
     Apiservices.get('/services').then((res) => {
-      console.log(res.data)
       setServices(res.data)
     })
   }, [update])

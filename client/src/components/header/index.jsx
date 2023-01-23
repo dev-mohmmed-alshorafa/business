@@ -74,8 +74,6 @@ function Header() {
           alignItems={'center'}
           direction={lng === 'en' ? 'row' : 'row-reverse'}
         >
-
-         
           <IconButton
             onClick={() => changeLanguage(lng === 'en' ? 'ar' : 'en')}
           >

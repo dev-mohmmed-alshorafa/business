@@ -29,7 +29,7 @@ function Login() {
             >
               {t("signin")}
             </Typography>
-            <img style={{ width: '320px' }} src="./icons/logoo.png" alt="" />
+            <img style={{ width: '320px',margin:'35px 0' }} src="./assets/images/white-logo.svg" alt="" />
           </Stack>
 
           <LoginForm />

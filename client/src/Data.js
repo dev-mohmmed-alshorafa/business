@@ -29,33 +29,7 @@ function Data() {
         name: t('contactUs'),
         path: '/dashboard/contact',
       },
-    ],
-    products: [
-      t('logo'),
-      t('name'),
-      t('category'),
-      t('description'),
-      t('price'),
-      t('actions'),
-    ],
-    customers: [t('name'), t('email'), t('phoneNum'), t('actions')],
-    admins: [t('name'), t('email'), t('phoneNum'), t('actions')],
-    merchants: [
-      t('logo'),
-      t('name'),
-      t('tradeName'),
-      t('email'),
-      t('phoneNum'),
-      t('actions'),
-    ],
-    factorys: [
-      t('logo'),
-      t('name'),
-      t('address'),
-      t('email'),
-      t('phoneNum'),
-      t('actions'),
-    ],
+    ]
   }
 
   return data
