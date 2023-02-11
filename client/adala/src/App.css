@@ -1,0 +1,170 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;}
+:root{
+  --main-color:#3351A6;
+  --background-nav:#ffff;
+  --icon-nav:#a6a5a5;
+  --icons-side-menu:rgb(0, 0, 0);
+  --icons-search-bar:#ffff;
+  --background-icons-side-menu:rgba(255, 255, 255, 0.24);
+  --delete-icon:red;
+  --background-menu-side:rgb(255, 255, 255);
+}
+.login-form input{
+  color:var(--icons-side-menu);
+}
+.login-form label{
+  color:var(--icons-side-menu);
+
+}
+.loading-blur{
+  backdrop-filter: blur(5px);
+}
+.password-input{
+  color:var(--icons-side-menu);
+  border:1px solid var(--icons-side-menu)
+  ;
+}
+
+.App{
+  overflow: hidden;
+  background: rgb(230 227 227 / 26%);
+  min-height: 100vh;
+}
+h1{
+  margin-top: 200px;
+}
+
+::-webkit-scrollbar {
+  /* width: 12px; */
+  /* background-color: transparent; */
+  display: none;
+
+}
+
+::-webkit-scrollbar-track {
+  /* -webkit-box-shadow: inset 0 0 6px rgba(255, 4, 4, 0); */
+  /* background-color: transparent; */
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  /* -webkit-box-shadow: inset 0 0 6px rgba(104, 255, 16, 0); */
+  /* background-color: transparent;  */
+  display: none;
+  /* border-radius: 20px;
+  border: 0px solid rgba(255, 166, 0, 0) !important; */
+}
+.input-form{
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #c4c4c49f;
+border-radius: 20px;
+}
+
+.add-product-form #selected .MuiFormControl-root {
+  border-radius: 20px;
+padding: 0;
+}
+.add-product-form fieldset{
+  border: 1px solid #b8b8b8;
+  border-radius: 20px;
+  padding: 0;
+}
+.add-product-form .MuiInputBase-root {
+border:none;
+}
+
+.add-product-form #selected{
+  border-radius: 20px;
+}
+.css-6hp17o-MuiList-root-MuiMenu-list{
+padding-top: 0px !important;}
+.add-merchant-form input{
+padding: 18px;
+}
+ .MuiDrawer-paperAnchorLeft,.MuiDrawer-paperAnchorRight{
+  background: #00000000 !important;
+box-shadow: none !important;
+/* border-radius: 20px !important; */
+}
+.ul{
+  background-color: rgb(250, 250, 250) !important;
+}
+.menu-icons{
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 0.875rem;
+  line-height: 1.75;
+  min-width: 64px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-shadow: none;
+  padding: 9px 24px;
+  border-radius: 8px;
+  color: rgb(230, 30, 41);
+  font-weight: 700;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  text-align: left;
+  text-transform: none;
+  width: 100%;}
+.menu-icons img{
+width: 20px;}
+.menu-icons:hover{
+  background-color: var(--background-icons-side-menu);
+}
+@media (min-width: 600px) {
+  .input-form{
+    width: 243.5px;
+    padding: 10px;
+  }
+  .scroll-menu-side::-webkit-scrollbar {
+    width: 12px;
+    background-color: transparent;
+  
+  }
+  
+  .scroll-menu-side::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(255, 4, 4, 0) !important;
+    background-color: transparent;}
+  
+  .scroll-menu-side::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(104, 255, 16, 0) !important;
+    background-color: transparent; 
+    display: none;
+    border-radius: 20px;
+    border: 0px solid rgba(255, 166, 0, 0) !important;
+  }
+  ::-webkit-scrollbar {
+
+    display: block;
+
+  }
+  
+  ::-webkit-scrollbar-track {
+     display: block;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+      display: block;
+
+  }
+}
